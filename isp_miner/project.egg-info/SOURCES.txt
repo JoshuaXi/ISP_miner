@@ -1,0 +1,15 @@
+setup.py
+isp_miner/__init__.py
+isp_miner/items.py
+isp_miner/middlewares.py
+isp_miner/pipelines.py
+isp_miner/settings.py
+isp_miner/data/__init__.py
+isp_miner/data/test.py
+isp_miner/spiders/__init__.py
+isp_miner/spiders/isp_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
